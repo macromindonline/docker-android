@@ -1,4 +1,4 @@
-FROM macromindonline/docker-java8
+FROM macromind/docker-java8
 
 MAINTAINER MACROMIND Online <idc@macromind.online>
 
